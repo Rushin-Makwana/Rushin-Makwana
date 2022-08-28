@@ -1,7 +1,7 @@
 
 
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://rushin-portfolio.netlify.app/)
-<h1 align="center"> Hi 👋 Developers, I'm Rushin Dipak Makwana.</h1>
+<h1 align="center"> Hi 👋 Developers, I'm Rushin Dipak Makwana</h1>
 <h3 align="center"> A Full Stack Web Developer from Ahmedabad, India </h3>
 
 
