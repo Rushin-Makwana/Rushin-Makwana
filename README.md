@@ -53,6 +53,9 @@ Research-y     Perf profiling · Experiment design · Energy measurement · GenA
 
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rushin-Makwana&color=00E5C8&style=flat" alt="Profile views" />
+</p>
 
 
 
