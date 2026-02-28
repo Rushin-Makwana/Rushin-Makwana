@@ -51,5 +51,13 @@ Research       Software profiling · Experiment design · Energy measurement · 
 <a href="https://www.linkedin.com/in/rushinmakwana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shah--rahul" height="30" width="40" /></a></h4></p>
 
 
+*Best way to reach me: LinkedIn DM for collaborations, email for job opportunities. I respond within 24 hours.*
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rushin-Makwana&color=00E5C8&style=flat" alt="Profile views" />
+</p>
+
 
 
