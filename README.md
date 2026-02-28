@@ -18,7 +18,7 @@ Before the M.Sc., I shipped production code at scale — backends handling 10k+ 
 | 🚀 Project | What's the story? |
 |-----------|------------------|
 | [**SPECTRA**](https://github.com/ptidejteam/ptidej-SPECTRA) | My flagship research tool — profiles IoT system energy use and performance together. Published at ICSE 2026 (ACM). |
-| [**CityData**](https://github.com/ptidejteam/tools4cities-CITYdata) | Middleware I built for Hydro-Québec to wrangle real-world city energy data. Very satisfying to see it run on actual infrastructure. |
+| [**CityData**](https://github.com/ptidejteam/tools4cities-CITYdata) | Middleware solution built for Hydro-Québec to wrangle real-world city energy data. Very satisfying to see it run on actual infrastructure. |
 | [**CityLayer**](https://github.com/Rushin-Makwana) | Geospatial pipeline + 3D city visualisation for Concordia's Next-Gen Cities Institute. Python, R, and a lot of map data. |
 | **Claims Dashboard** | Cut a claims processing workflow from slow → 60% faster. Full-stack, containerised, shipped. |
 | **Warzone Engine** | Built a Risk game engine from scratch in Java with a team of four. More fun than it sounds. |
@@ -39,7 +39,7 @@ Day-to-day     Java · Python · JavaScript · C#
 Web & APIs     Spring Boot · .NET Core · React · Angular · REST · Node.js
 Data & DBs     PostgreSQL · MongoDB · MySQL · R (for stats)
 Infra          Docker · Kubernetes · AWS · Jenkins · GitHub Actions
-Research-y     Perf profiling · Experiment design · Energy measurement · GenAI tooling
+Research       Software profiling · Experiment design · Energy measurement · GenAI tooling
 ```
 
 
