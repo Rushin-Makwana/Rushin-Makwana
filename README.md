@@ -48,14 +48,8 @@ Research-y     Perf profiling · Experiment design · Energy measurement · GenA
 
 
 <h4>Let's Connect On:<p align="left">
-<a href="https://www.linkedin.com/in/rushinmakwana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shah--rahul" height="30" width="40" /></a></h4>
+<a href="https://www.linkedin.com/in/rushinmakwana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shah--rahul" height="30" width="40" /></a></h4></p>
 
-
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rushin-Makwana&color=00E5C8&style=flat" alt="Profile views" />
-</p>
 
 
 
