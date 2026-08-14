@@ -8,7 +8,7 @@
 </h4> 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-I'm MSc. CS Researcher at Concordia University in Montreal, where I spend my days writing Java, designing middleware, and asking the kind of questions that eventually turn into peer-reviewed papers. I've published twice at **ICSE** — once in the IEEE Digital Library, once in ACM — on topics I genuinely find fascinating: how software consumes energy, how IoT systems can be profiled holistically, and how middleware can be designed to actually hold up in the real world.
+I'm MSc. CS Researcher at Concordia University in Montreal, where I spend my days writing Java, designing middleware, and asking the kind of questions that eventually turn into peer-reviewed papers. I've published twice at **ICSE** — once in the IEEE Digital Library, once in ACM — on topics I genuinely find fascinating: how software consumes energy, how software systems can be profiled holistically, and how middleware can be designed to actually hold up in the real world.
 
 Before the M.Sc., I shipped production code at scale — backends handling 10k+ daily users, REST APIs that reduced processing time by 60%, pipelines storing data for 1M+ users. I like the full arc: from a research idea to a running system.
 
@@ -17,7 +17,7 @@ Before the M.Sc., I shipped production code at scale — backends handling 10k+ 
 
 | 🚀 Project | What's the story? |
 |-----------|------------------|
-| [**SPECTRA**](https://github.com/ptidejteam/ptidej-SPECTRA) | My flagship research tool — profiles IoT system energy use and performance together. Published at ICSE 2026 (ACM). |
+| [**SPECTRA**](https://github.com/ptidejteam/ptidej-SPECTRA) | My flagship research tool — profiles system energy use and performance together. Published at ICSE 2026 (ACM). |
 | [**CityData**](https://github.com/ptidejteam/tools4cities-CITYdata) | Middleware solution built for Hydro-Québec to wrangle real-world city energy data. Very satisfying to see it run on actual infrastructure. |
 | [**CityLayer**](https://github.com/Rushin-Makwana) | Geospatial pipeline + 3D city visualisation for Concordia's Next-Gen Cities Institute. Python, R, and a lot of map data. |
 | **Claims Dashboard** | Cut a claims processing workflow from slow → 60% faster. Full-stack, containerised, shipped. |
